@@ -1,0 +1,4 @@
+part	part-module.html
+part.__package__	part-module.html#__package__
+part.Part	part.Part-class.html
+part.Part.__init__	part.Part-class.html#__init__
